@@ -7,13 +7,13 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
 
-        System.out.println("Trouve le nombre entre 1 et 100. Tu as 10 essais !");
+        System.out.println("Trouvez le nombre entre 1 et 100. Vous avez 10 essais !");
 
 
         while (!game.isGameOver()) {
 
             System.out.println("\nEssai " + (game.attempts + 1) + "/" + game.maxAttempts);
-            System.out.print("Ton nombre : ");
+            System.out.print("Votre nombre : ");
 
             int userGuess = scanner.nextInt();
 
