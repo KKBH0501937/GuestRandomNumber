@@ -27,7 +27,7 @@ L'ordinateur génère un nombre aléatoire entre 1 et 100. Le joueur a 10 essais
 Trouve le nombre entre 1 et 100. Tu as 10 essais !
 
 Essai 1/10 - Ton nombre : 50 -> Trop petit !
-Essai 2/10 - Ton nombre : 75 -> Troop grand !
+Essai 2/10 - Ton nombre : 75 -> Trop grand !
 Essai 3/10 - Ton nombre : 63 -> Gagné !
 
 Bravo ! Trouvé en 3 essai(s) !
